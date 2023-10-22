@@ -1,4 +1,4 @@
-
+#Amazon Review Analysis
 #reviewerID Kullanıcı ID’si
 #asin Ürün ID’si
 #reviewerName Kullanıcı Adı
